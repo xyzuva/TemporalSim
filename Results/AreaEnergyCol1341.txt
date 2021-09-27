@@ -1,0 +1,16 @@
+---- ENERGY ----
+Total Energy : 9.78753e-08
+ - Array Energy : 1.842e-08
+ - Comparator Energy : 5.70378e-09
+ - Row Decoder Energy : 5.55442e-10
+ - Column Decoder Energy : 3.832e-08
+ - V2I Energy  : 3.81287e-08
+ - Majority Voter Energy : 4.20048e-13
+---- AREA (micro meter) ----
+Total Area : 10841.4
+ - Array Area : 10779.6
+ - Comparator Area : 23.2398
+ - Row Decoder Area : 1.72031
+ - Column Decoder Area : 0.649373
+ - V2I Area : 26.1277
+ - Majority Voter Area : 1.33307

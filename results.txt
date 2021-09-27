@@ -1,0 +1,18 @@
+---- ENERGY ----
+Total Energy : 1.43275e-06
+ - Array Energy : 1.80235e-08
+ - Comparator Energy : 3.41946e-07
+ - Row Decoder Energy : 5.47781e-10
+ - Column Decoder Energy : 5.91081e-07
+ - V2I Energy  : 8.11234e-07
+ - Majority Voter Energy : 4.20048e-13
+---- AREA (micro meter) ----
+Total Area : 10692
+ - Array Area : 10631
+ - Comparator Area : 23.2398
+ - Row Decoder Area : 1.69647
+ - Column Decoder Area : 0.182248
+ - V2I Area : 26.1277
+ - Majority Voter Area : 1.33307
+
+1 1 0 1 0 0 1 0 1 1 0 1 0 1 0 0 1 0 0 0 1 0 0 0 0 0 1 0 1 0 0 1 0 0 0 0 0 0 0 0 1 1 1 1 1 1 1 1 1 0 0 1 0 0 0 0 0 1 0 0 1 0 1 1 1 0 0 0 0 0 0 0 0 0 1 1 0 0 1 0 0 0 0 1 0 0 1 1 1 1 1 1 1 1 0 0 0 0 0 1 1 1 1 1 0 0 1 1 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 1 1 1 1 0 0 0 0 1 1 0 0 0 0 1 0 0 0 0 1 1 0 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 0 0 0 1 1 1 1 0 0 0 0 1 1 0 0 0 0 0 0 1 0 0 0 0 1 1 1 1 1 1 1 0 0 0 0 1 1 0 0 0 1 0 0 1 0 0 0 1 1 1 0 1 1 1 1 0 1 1 1 1 1 0 0 0 0 1 1 0 0 0 0 0 0 1 1 1 0 1 1 1 1 1 1 0 
